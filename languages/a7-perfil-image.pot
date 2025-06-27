@@ -1,0 +1,23 @@
+msgid "A7 Perfil Image"
+msgstr ""
+
+msgid "Permissão negada."
+msgstr ""
+
+msgid "ID do arquivo não enviado."
+msgstr ""
+
+msgid "Arquivo inválido."
+msgstr ""
+
+msgid "Alterar foto de perfil"
+msgstr ""
+
+msgid "Tamanho padrão da imagem (px)"
+msgstr ""
+
+msgid "Forçar estilo arredondado"
+msgstr ""
+
+msgid "A7 Perfil Image - Configurações"
+msgstr "" 
